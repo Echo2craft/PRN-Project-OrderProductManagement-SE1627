@@ -1,0 +1,3 @@
+1.Cascade can be dangerous, around Category and Product and Order Detail. Status change must do something to it
+2.Payment and Order Detail Appear inside Order Management
+3.Check Out Product Price Rather than input it.

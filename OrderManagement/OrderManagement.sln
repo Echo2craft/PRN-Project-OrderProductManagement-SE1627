@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderManagement", "OrderManagement.csproj", "{14BE831B-974C-43FE-90DD-3626C7AD9DB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductRepo1", "..\ProductRepo1\ProductRepo1.csproj", "{05BD76F3-C4FA-4F45-B2F5-DC02A048B5B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14BE831B-974C-43FE-90DD-3626C7AD9DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BE831B-974C-43FE-90DD-3626C7AD9DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BE831B-974C-43FE-90DD-3626C7AD9DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BE831B-974C-43FE-90DD-3626C7AD9DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BD76F3-C4FA-4F45-B2F5-DC02A048B5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BD76F3-C4FA-4F45-B2F5-DC02A048B5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BD76F3-C4FA-4F45-B2F5-DC02A048B5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BD76F3-C4FA-4F45-B2F5-DC02A048B5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD4EA3A9-A772-4B0F-9BDD-FA82D50AC3DF}
+	EndGlobalSection
+EndGlobal
